@@ -8,5 +8,3 @@
 - 💬 Ask me about: **Node.js, React, C++, and Python**
 
 - ⚡ Special Challenge: **If you can beat me in Initial D Arcade I will buy you a coffee.**
-
----
