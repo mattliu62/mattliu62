@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3 align = "center">Hello and Welcome! 👋</h3>
+<h4 align = "center">I'm a professional SWE by day and a freelance fullstack developer by night! I tend to work on very impractical projects.</h4>
 
-<!--
-**mattliu62/mattliu62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning about: **webhosting/cloud applications to implement remote storage solutions in my programs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about: **Node.js, React, C++, and Python**
+
+---
+
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mattliu62&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mattliu62" /></p>
+
+<p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mattliu62&theme=dark" alt="mattliu62" /></p>
+
+---
+
+- ⚡ Special Challenge: **If you can beat me in Initial D Arcade I will buy you a coffee.**
